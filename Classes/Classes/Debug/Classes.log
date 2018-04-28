@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\rslip\source\repos\algorithms\classes\classes\source.cpp(36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\rslip\source\repos\algorithms\classes\classes\source.cpp(37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Classes.vcxproj -> C:\Users\rslip\source\repos\Algorithms\Classes\Debug\Classes.exe
